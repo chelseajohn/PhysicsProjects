@@ -25,3 +25,5 @@ a project done to investigate the effect of General Relativity on the orbit of M
 * Internship on Evolutionary Neural Network report
 * Statistical techniques in Cosmology poster
 * Dark energy and accelerated expansion poster
+* Embedded lab programs using 8051 micro-controller
+
