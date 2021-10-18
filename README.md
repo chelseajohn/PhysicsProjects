@@ -23,3 +23,5 @@ a project done to investigate the effect of General Relativity on the orbit of M
 * Photometry of star clusters report
 * ATLAS Experiment report
 * Internship on Evolutionary Neural Network report
+* Statistical techniques in Cosmology poster
+* Dark energy and accelerated expansion poster
